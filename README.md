@@ -1,4 +1,4 @@
-# simple-webLocal-storage
+# simple-web-storage
 
 LocalStorage adalah fitur pada web browser yang memungkinkan penyimpanan data pada perangkat klien (client-side) dengan jangka waktu yang tidak terbatas. Ini berguna untuk menyimpan preferensi pengguna, sesi login, atau data aplikasi lainnya tanpa harus mengirimkan permintaan ke server. Data yang disimpan dalam LocalStorage dapat diakses oleh aplikasi web yang sama di perangkat yang sama, meskipun jika browser ditutup .
 
